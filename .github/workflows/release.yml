@@ -1,0 +1,23 @@
+name: Release & Cleanup
+
+on:
+  release:
+    types: [published]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  cleanup-releases:
+    name: Delete older releases
+    runs-on: ubuntu-latest
+    steps:
+      - name: Delete older releases
+        uses: dev-drprasad/delete-older-releases@v0.3.4
+        with:
+          keep_latest: 1
+          delete_tags: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
