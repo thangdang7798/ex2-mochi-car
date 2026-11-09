@@ -1,9 +1,9 @@
 {
-  "versionCode": 60,
+  "versionCode": 61,
   "versionName": "0.0.1",
   "apkUrl": "https://raw.githubusercontent.com/thangdang7798/ex2-mochi-car/main/apps/geely-ex2.apk",
-  "sha256": "68b4e2d059095615a1e0ea93d2cf2742321941693fc5ea1d561a212ff2d9f52a",
-  "sizeBytes": 13138286,
-  "changelog": "",
+  "sha256": "3a551edb58b574c6eb911b765e84d6d2c7d71fec3bf2ef843485d685fecd5f17",
+  "sizeBytes": 1954310,
+  "changelog": "Tối ưu hiệu năng",
   "mandatory": false
 }
