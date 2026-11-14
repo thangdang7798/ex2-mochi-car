@@ -1,9 +1,9 @@
 {
-  "versionCode": 61,
+  "versionCode": 62,
   "versionName": "0.0.1",
   "apkUrl": "https://raw.githubusercontent.com/thangdang7798/ex2-mochi-car/main/apps/geely-ex2.apk",
-  "sha256": "3a551edb58b574c6eb911b765e84d6d2c7d71fec3bf2ef843485d685fecd5f17",
-  "sizeBytes": 1954310,
-  "changelog": "Tối ưu hiệu năng",
+  "sha256": "bd69e8cb6bc61325dfcf82b39ddb670cb3d0534de147dd8e14814c768f95fe7f",
+  "sizeBytes": 1954326,
+  "changelog": "Sửa kết nối WiFi với xe tự ngắt liên tục khi ứng dụng chạy nền. Bật Chạy nền tự động để giữ kết nối WiFi khi đóng ứng dụng.",
   "mandatory": false
 }
