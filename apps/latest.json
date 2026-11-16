@@ -1,9 +1,9 @@
 {
-  "versionCode": 63,
+  "versionCode": 64,
   "versionName": "0.0.1",
   "apkUrl": "https://raw.githubusercontent.com/thangdang7798/ex2-mochi-car/main/apps/geely-ex2.apk",
-  "sha256": "818e021b2c4ebb02f4f73e01d06bcc6e9c3971b4bcba0cb7876b496598162d70",
-  "sizeBytes": 1970710,
-  "changelog": "Thêm công tắc Điện thoại phát WiFi cho xe (mặc định bật): ứng dụng tự tìm xe, không cần nhập IP. Tắt công tắc để nhập IP xe bằng tay.",
+  "sha256": "86c4f26e149a0aad97e492cbe7ab5ac8cae29f39411748e729075890484dad96",
+  "sizeBytes": 1976414,
+  "changelog": "Thêm mục Cài ứng dụng lên xe ở tab Điều khiển: chọn file APK trên điện thoại để gửi sang xe và cài đặt tự động.",
   "mandatory": false
 }
