@@ -1,9 +1,9 @@
 {
-  "versionCode": 64,
+  "versionCode": 65,
   "versionName": "0.0.1",
   "apkUrl": "https://raw.githubusercontent.com/thangdang7798/ex2-mochi-car/main/apps/geely-ex2.apk",
-  "sha256": "86c4f26e149a0aad97e492cbe7ab5ac8cae29f39411748e729075890484dad96",
-  "sizeBytes": 1976414,
-  "changelog": "Thêm mục Cài ứng dụng lên xe ở tab Điều khiển: chọn file APK trên điện thoại để gửi sang xe và cài đặt tự động.",
+  "sha256": "e10b351e587c031256b6d64abc850beab23639706cb7debefeff3626db02f126",
+  "sizeBytes": 1992798,
+  "changelog": "Tự động kiểm tra bản cập nhật mới và hiển thị chấm đỏ ở Cài đặt.",
   "mandatory": false
 }
