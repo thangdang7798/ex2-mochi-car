@@ -1,9 +1,9 @@
 {
-  "versionCode": 66,
+  "versionCode": 67,
   "versionName": "0.0.1",
   "apkUrl": "https://raw.githubusercontent.com/thangdang7798/ex2-mochi-car/main/apps/geely-ex2.apk",
-  "sha256": "1ba74c3c4afb5d0ad936715923d534b7293e84c8ed21dfca9a20703b1809b098",
-  "sizeBytes": 1992798,
-  "changelog": "Chế độ WiFi: chọn Bluetooth của xe để điện thoại tự kết nối mỗi khi lên xe (phát WiFi cho xe), không cần mở ứng dụng.",
+  "sha256": "5841ffd8ff8577d64e653e42ab74b3362b86d1576665131f2b6b8ec4202bce32",
+  "sizeBytes": 1959898,
+  "changelog": "Đồng bộ trực tiếp lịch sử hành trình, vị trí đỗ xe và bản đồ lộ trình từ màn hình xe; không cần cấp quyền vị trí trên điện thoại.",
   "mandatory": false
 }
