@@ -1,9 +1,9 @@
 {
-  "versionCode": 69,
+  "versionCode": 70,
   "versionName": "0.0.1",
   "apkUrl": "https://raw.githubusercontent.com/thangdang7798/ex2-mochi-car/main/apps/geely-ex2.apk",
-  "sha256": "a2b7804578b0a0d0ddd1e3bcb8d8992b6fed4d1cc34480ecd2a503d94007a6ea",
+  "sha256": "b4f15a6e2d7bd088b115f8da0c9799609046fe92316b054cf19485601f76cffb",
   "sizeBytes": 1835290,
-  "changelog": "Thêm tính năng đổi âm thanh AVAS đi chậm và chỉnh âm lượng loa ngoài (bản Pro trên xe).",
+  "changelog": "Âm AVAS đi chậm gửi lên xe dài tối đa 15 giây (trước là 10 giây).",
   "mandatory": false
 }
